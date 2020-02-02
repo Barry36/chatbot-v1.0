@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/barrywang/Desktop/lsh-python-project/chatbot/chatbot-v1.0/model.tflearn"
+all_model_checkpoint_paths: "/Users/barrywang/Desktop/lsh-python-project/chatbot/chatbot-v1.0/model.tflearn"
